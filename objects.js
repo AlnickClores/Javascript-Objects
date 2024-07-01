@@ -23,7 +23,7 @@ for(let i in person) {
 }
 let displayUsingLoop = objectValues
 
-// 2. by making an array
+// 2. by using Object.values()
 let displayArr = Object.values(person)
 
 // 3. by using the JSON.stringify()
